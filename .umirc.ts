@@ -11,8 +11,8 @@ export default defineConfig({
     //   ],
     routes: routes,
     fastRefresh: {},
-    qiankun:{
-        // master:{}
-        slave: {},
-    }
+    // qiankun:{
+    //     // master:{}
+    //     slave: {},
+    // }
 });

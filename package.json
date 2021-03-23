@@ -1,6 +1,6 @@
 {
     "name": "qk-part3",
-    "displayName":"乾坤3",
+    "displayName": "乾坤3",
     "private": true,
     "scripts": {
         "start": "set port=9001 && umi dev",
@@ -30,6 +30,5 @@
         "yorkie": "^2.0.0"
     },
     "devDependencies": {
-        "@umijs/plugin-qiankun": "^2.24.1"
     }
 }
